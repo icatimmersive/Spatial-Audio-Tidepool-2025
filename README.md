@@ -5,12 +5,15 @@ This repository contains learning materials for the Spatial Audio Tidepool, Sess
 ## Description
 
 Materials in this repository were used in the first part of the Spatial Audio Tidepool 2025 program, organized by ICAT at Virginia Tech.
+Sessions took place in the [Cube](https://icat.vt.edu/studios/mac/the-cube.html), 
+the [Perform Studio](https://icat.vt.edu/studios/mac/perform.html), and the 
+[ASPIRe Lab](https://icat.vt.edu/studios/media/aspire-lab.html).
 
 ## Repository Information
 
 - **Host:** [ICAT at Virginia Tech](https://github.com/icatimmersive)
 - **Session Dates:** June 2–4, 2025
-- **Location:** ICAT, Virginia Tech
+- **Location:** Virginia Tech, Blacksburg campus
 
 ## Contents
 
